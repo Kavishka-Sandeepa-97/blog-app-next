@@ -1,11 +1,11 @@
 import React from 'react'
 
-function NavBar() {
+function TemeContext() {
   return (
     <div>
-      navbar
+      
     </div>
   )
 }
 
-export default NavBar
+export default TemeContext
