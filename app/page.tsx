@@ -6,6 +6,7 @@ import { Button } from "@/components/ui/button"
 
 function page() {
   return (
+    
    <div className='bg-green-900'>
       
       <Button variant="ghost">ddd</Button>
@@ -15,3 +16,4 @@ function page() {
 }
 
 export default page
+
